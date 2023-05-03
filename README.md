@@ -24,7 +24,7 @@ You can download the latest stable version of Geth for Linux 64-bit directly fro
 
 1. Go to the Geth website at https://geth.ethereum.org/downloads/
 2. Scroll down to the "Stable Releases" section.
-3. Find the "Geth & Tools 1.11.6" release and click on the "Linux (64-bit)" link next to it.
+3. Find the "Geth & Tools {version number}" release and click on the "Linux (64-bit)" link next to it.
 4. The download will start automatically.
 
 
