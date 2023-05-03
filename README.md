@@ -1,6 +1,6 @@
 ## Geth Installation Tutorial
 
-This tutorial will guide you through the installation process for Geth 1.11.6 on Ubuntu Linux.
+This tutorial will guide you through the installation process for Singlenode Geth on Ubuntu Linux.
 
 ### Step 1: Update the repositories
 
